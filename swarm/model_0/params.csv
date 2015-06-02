@@ -1,0 +1,2 @@
+modelParams|clParams|alpha,modelParams|sensorParams|encoders|_classifierInput|n,modelParams|sensorParams|encoders|rlg_price:n,modelParams|spParams|synPermInactiveDec,modelParams|tpParams|activationThreshold,modelParams|tpParams|minThreshold,modelParams|tpParams|pamLength
+0.08262450451377502,28,405,0.034226160964167765,16,10,2
